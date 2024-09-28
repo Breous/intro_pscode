@@ -1,4 +1,9 @@
 # Client Task C #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+# START
+# INPUT total products = 0
+# INPUT produts per package = 2
+# INPUT case capacity = 50
+# PRINT "Counting products scanned for boxing packages;"
+# PRINT  Print the number of products (2 to 50)
