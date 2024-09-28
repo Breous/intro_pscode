@@ -1,4 +1,11 @@
 # Client Task B #
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
-
+# START
+# PRINT "Welcome to the Locator 5000 Application!"
+# FUNCTION Locator(Locator)
+# INPUT  (X,Y) or (ITEM CODE)
+# FUNCTION LOCATE
+# PRINT "LOCATON OR ITEM FOUND THANKS FOR USING LOCATOR 5000"
+# LOOP
+# END
