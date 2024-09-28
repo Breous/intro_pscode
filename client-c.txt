@@ -6,4 +6,11 @@
 # INPUT produts per package = 2
 # INPUT case capacity = 50
 # PRINT "Counting products scanned for boxing packages;"
-# PRINT  Print the number of products (2 to 50)
+# SET   display scanned amount of products
+# IF    Total products exceeds case capacity
+# PRINT "Exceeds Capacity. Adjust number of packages
+# PRINT "Rescanning"
+# INPUT confirm
+# PRINT Print the number of products (2 to 50)
+# PRINT "Complete"
+# END
